@@ -10,7 +10,7 @@ export default function Index() {
 
   return (
     <View className='index'>
-      <Text>首页</Text>
+      <Text>个人中心</Text>
     </View>
   )
 }
